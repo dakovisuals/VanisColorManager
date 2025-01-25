@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name                Vanis Color Manager
+// @namespace           http://tampermonkey.net/
+// @description         Unique color modes
+// @icon                https://github.com/dakovisuals/VanisColorManager/blob/main/favicon.png?raw=true
+// @version             1.4
+// @author              dakovisuals
+// @match               https://vanis.io/perk
+// @grant               none
+// @license GNU GPLv3   https://github.com/dakovisuals/VanisColorManager/LICENSE
+// @downloadURL https://update.greasyfork.org/scripts/524818/Vanis%20Color%20Manager.user.js
+// @updateURL https://update.greasyfork.org/scripts/524818/Vanis%20Color%20Manager.meta.js
+// ==/UserScript==
